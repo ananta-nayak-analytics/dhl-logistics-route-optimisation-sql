@@ -4,7 +4,7 @@
 This project focuses on optimizing delivery routes using SQL to improve logistics efficiency and reduce operational delays in a DHL-based dataset.
 
 ## 🛠 Tools Used
-- SQL
+- MySQL
 
 ## 🔍 Key Tasks Performed
 - Data cleaning (handling duplicates and inconsistent date formats)
