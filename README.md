@@ -23,5 +23,12 @@ This project focuses on optimizing delivery routes using SQL to improve logistic
 ## 🎯 Outcome
 This project demonstrates how SQL can be used to analyze logistics data and generate actionable insights for better decision-making.
 
+## analysis-dashboard 
+<img width="1153" height="651" alt="analysis-dashboard" src="https://github.com/user-attachments/assets/d8b570b8-cd88-468f-a96f-a64f0e31f5ef" />
+
+
+
+
+
 ## 👤 Author
 Ananta Nayak
